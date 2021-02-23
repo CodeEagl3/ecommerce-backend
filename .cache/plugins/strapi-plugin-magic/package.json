@@ -1,0 +1,53 @@
+{
+  "_from": "strapi-plugin-magic",
+  "_id": "strapi-plugin-magic@0.9.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ue7WHFInpwWCsHr6RN8hSLa2P9itfXyXOyyuecaEP3AHulU7hL8AeHVmVKl/lcC6oCtGGKwgE26l6oLoc0iqIg==",
+  "_location": "/strapi-plugin-magic",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strapi-plugin-magic",
+    "name": "strapi-plugin-magic",
+    "escapedName": "strapi-plugin-magic",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-plugin-magic/-/strapi-plugin-magic-0.9.0.tgz",
+  "_shasum": "067b27fd0d6943fdccc405e2519a53fc9c647488",
+  "_spec": "strapi-plugin-magic",
+  "_where": "C:\\Users\\USER\\source\\repos\\ecommerce\\ecommerce-backend",
+  "author": {
+    "name": "Alex The Entreprenerd",
+    "email": "alex@entreprenerd.xyz",
+    "url": "https://entreprenerd.xyz"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@buffetjs/core": "^3.3.1",
+    "@magic-sdk/admin": "^1.2.2",
+    "styled-components": "^5.2.0"
+  },
+  "deprecated": false,
+  "description": "One Line Magic.Link Integration with Strapi, also store your PK in Admin",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "homepage": "https://github.com/GalloDaSballo/strapi-magic-template",
+  "license": "MIT",
+  "maintainers": [],
+  "name": "strapi-plugin-magic",
+  "strapi": {
+    "name": "magic",
+    "icon": "magic",
+    "description": "One Line Magic.Link Integration with Strapi, also store your PK in Admin"
+  },
+  "version": "0.9.0"
+}
